@@ -13,4 +13,4 @@ password = "".join(random.sample(string,length))
 
 print("Password: " + password)
 importimportimportimporimportimportimportimportimporimportimportimportimportimporimportimportimportimportimporimport
-https://www.roblox.com/users/151848836/profile?friendshipSourceType=PlayerSearchhttpshttps://www.roblox.com/users/151848836/profile?friendshipSourceType=PlayerSearchPlayerSearch
+https://www.roblox.com/users/151848836/profile?friendshipSourceType=PlayerSearchhttpshttps://www.roblox.com/users/151848836/profile?friendshipSourceType=PlayerSearchPlayerSearchPlayerSearchPlayerSearch
